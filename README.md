@@ -12,7 +12,7 @@
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
 <br/>
 
-🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I am a Software Engineer, currently working with awesome folks at **Teqfocus** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
 
