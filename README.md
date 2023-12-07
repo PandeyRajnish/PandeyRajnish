@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=PandeyRajnish&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
+<img src="https://media.licdn.com/dms/image/D4D16AQEmtOKcrjFxJg/profile-displaybackgroundimage-shrink_350_1400/0/1695944183602?e=1707350400&v=beta&t=R6O3ZyP4TGSvBzG8Ma3YGfUG-Mi1vh1wreWaebLL7fU" alt="Front End Developer Banner" />
 <br/>
 
 🔭 I am a Software Engineer, currently working with awesome folks at **Teqfocus** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
