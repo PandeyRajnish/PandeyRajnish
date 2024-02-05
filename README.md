@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rajnish.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-<h1 align='center'>
-  Hi there <img style="vertical-align: sub" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hands" width="40" /> I'm Rajnish 👨
-</h1>
-
 <h3 align='center'>
   A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
