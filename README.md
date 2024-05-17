@@ -16,7 +16,7 @@
 
 🔎 I’m looking to collaborate on **Open source Project**
 
-💻 All of my projects are available at **[My Portfolio](https://rajnishkumarpandey.netlify.app/)**
+💻 All of my projects are available at **[My Portfolio](https://rajnish-pandey.netlify.app/)**
 
 🌍 My Open Source Online Profile at **[LinkFree](https://www.biodrop.io/PandeyRajnish)**
 
